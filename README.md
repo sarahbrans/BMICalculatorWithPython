@@ -4,8 +4,10 @@ This is a simple Python program that calculates Body Mass Index (BMI) based on u
 
 ## Features
     1. BMI Calculation: The program calculates BMI based on user-provided height and weight.
-    2. Database Integration: BMICalculator seamlessly connects to your database, allowing you to store and retrieve BMI information.
-    3. User-Friendly Interface: With a straightforward command-line interface, users can easily input their data and view calculated BMI results.
+    2. Database Integration: BMICalculator seamlessly connects to your database,
+       allowing you to store and retrieve BMI information.
+    3. User-Friendly Interface: With a straightforward command-line interface, users can easily
+       input their data and view calculated BMI results.
 ## Installation
     1. Clone the repository to your local machine:
     git clone https://github.com/your-username/BMICalculatorWithPython.git
