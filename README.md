@@ -24,7 +24,9 @@ To run the BMICalculator program, make sure you have the following installed:
     cd BMICalculatorWithPython
     3. Run the program:
     python bmi_calculator.py
-
-
-1. Follow the on-screen prompts to input your weight and height.
-2. The program will calculate your BMI and provide an interpretation of the result.
+    
+## Usage
+    1. Launch the program.
+    2. Enter your height and weight when prompted.
+    3. The program will calculate and display your BMI.
+    4. BMI data will be stored in the MySQL database for future reference.
