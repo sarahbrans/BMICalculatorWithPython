@@ -8,7 +8,16 @@ Welcome to the BMICalculator Python program! This program is designed to calcula
        allowing you to store and retrieve BMI information.
     3. User-Friendly Interface: With a straightforward command-line interface, users can easily
        input their data and view calculated BMI results.
-## Installation
+
+## Requirements
+
+To run the BMICalculator program, make sure you have the following installed:
+
+    Python: Version 3.6 or above.
+    MySQL Server: Ensure a MySQL server is running.
+    Required Python Packages: Install necessary packages using pip install -r requirements.txt.
+
+## Python Program Installation
     1. Clone the repository to your local machine:
     git clone https://github.com/your-username/BMICalculatorWithPython.git
     2. Navigate to the project directory:
