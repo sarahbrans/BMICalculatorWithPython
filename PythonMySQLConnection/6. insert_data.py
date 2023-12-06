@@ -1,5 +1,5 @@
 import mysql.connector
-mydb=mysql.connector.connect(host="localhost", user="root", password="Heyroot2001!", database="bmicalc")
+mydb=mysql.connector.connect(host="localhost", user="root", password="******", database="bmicalc")
 mycursor=mydb.cursor()
 
 insertrecord="INSERT INTO bmi_record (first_name, weight, height, bmi_value, bmi_category) VALUES (%s, %s, %s, %s, %s)"
